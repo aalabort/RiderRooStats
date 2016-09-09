@@ -1,0 +1,204 @@
+Gourmet Burger Kitchen - Brighton
+0.0
+Gars
+0.0
+Oki-Nami
+0.0
+wagamama - Brighton
+0.0
+Street Thai
+0.0
+Burgers & Cocktails - Brighton
+0.0
+Burgers & Cocktails - Brighton
+0.0
+The Hare and Hounds - La Choza
+0.0
+Chaula's
+0.0
+On the Level- The Loving Hut
+0.0
+wagamama - Brighton
+0.0
+Sukhothai Palace
+0.0
+Purezza
+0.0
+Sukhothai Palace
+0.0
+Pho - Brighton
+0.0
+Pho - Brighton
+0.0
+Gourmet Burger Kitchen - Brighton
+0.0
+Gourmet Burger Kitchen - Brighton
+0.0
+Gourmet Burger Kitchen - Brighton
+2.0
+Chaula's
+0.0
+Pinocchio - Brighton
+0.0
+10314 - KFC Brighton London Road Rst
+0.0
+Gourmet Burger Kitchen - Brighton
+0.0
+Pinocchio - Brighton
+0.0
+Gars
+0.0
+Cafe Chilli
+0.0
+Azaro Indian Dining
+0.0
+The Orange Buffalo @ The Joker
+0.0
+Pho - Brighton
+0.0
+Thai Pad Thai
+0.0
+Thai Pad Thai
+0.0
+Sabai Thai
+3.0
+Jamie's Italian - Brighton
+0.0
+Jamie's Italian - Brighton
+0.0
+wagamama - Brighton
+0.0
+Lovefit Caf=C3=A9
+0.0
+Pho - Brighton
+0.0
+Street Thai
+2.0
+Moshimo
+0.0
+wagamama - Brighton
+0.0
+The Orange Buffalo @ The Joker
+0.0
+MEATliquor - Brighton
+0.0
+wagamama - Brighton
+0.0
+The Orange Buffalo @ The Joker
+0.0
+Pearls Bubble Tea Caf=C3=A9
+0.0
+wagamama - Brighton
+0.0
+wagamama - Brighton
+0.0
+Gourmet Burger Kitchen - Brighton
+2.0
+Carlito Burrito
+1.0
+Las Iguanas - Brighton
+2.0
+Moshimo
+0.0
+Jamie's Italian - Brighton
+0.0
+Boost Juice Bars - Brighton
+0.0
+Gourmet Burger Kitchen - Brighton
+0.0
+wagamama - Brighton
+0.0
+Burgers & Cocktails - Brighton
+0.0
+3231 Jubilee Street - PizzaExpress
+0.0
+Oki-Nami
+2.0
+wagamama - Brighton
+0.0
+wagamama - Brighton
+0.0
+Thai Pad Thai
+0.0
+Gourmet Burger Kitchen - Brighton
+0.0
+3231 Jubilee Street - PizzaExpress
+0.0
+wagamama - Brighton
+2.0
+Eatalio
+2.0
+wagamama - Brighton
+0.0
+Carlito Burrito
+2.0
+
+Tips per restaurant:
+10314 - KFC Brighton London Road Rst    0.0
+The Hare and Hounds - La Choza          0.0
+Thai Pad Thai                           0.0
+Sukhothai Palace                        0.0
+Purezza                                 0.0
+Pinocchio - Brighton                    0.0
+Pho - Brighton                          0.0
+Pearls Bubble Tea Caf=C3=A9             0.0
+On the Level- The Loving Hut            0.0
+Moshimo                                 0.0
+The Orange Buffalo @ The Joker          0.0
+Lovefit Caf=C3=A9                       0.0
+MEATliquor - Brighton                   0.0
+Jamie's Italian - Brighton              0.0
+Gars                                    0.0
+Chaula's                                0.0
+Cafe Chilli                             0.0
+Burgers & Cocktails - Brighton          0.0
+Boost Juice Bars - Brighton             0.0
+Azaro Indian Dining                     0.0
+3231 Jubilee Street - PizzaExpress      0.0
+Oki-Nami                                2.0
+Eatalio                                 2.0
+Street Thai                             2.0
+Las Iguanas - Brighton                  2.0
+wagamama - Brighton                     2.0
+Carlito Burrito                         3.0
+Sabai Thai                              3.0
+Gourmet Burger Kitchen - Brighton       4.0
+dtype: float64 
+
+Average Tips per restaurant:
+10314 - KFC Brighton London Road Rst    0.000000
+The Hare and Hounds - La Choza          0.000000
+Thai Pad Thai                           0.000000
+Sukhothai Palace                        0.000000
+Purezza                                 0.000000
+Pinocchio - Brighton                    0.000000
+Pho - Brighton                          0.000000
+Pearls Bubble Tea Caf=C3=A9             0.000000
+On the Level- The Loving Hut            0.000000
+Moshimo                                 0.000000
+The Orange Buffalo @ The Joker          0.000000
+Lovefit Caf=C3=A9                       0.000000
+MEATliquor - Brighton                   0.000000
+Jamie's Italian - Brighton              0.000000
+Gars                                    0.000000
+Chaula's                                0.000000
+Cafe Chilli                             0.000000
+Burgers & Cocktails - Brighton          0.000000
+Boost Juice Bars - Brighton             0.000000
+Azaro Indian Dining                     0.000000
+3231 Jubilee Street - PizzaExpress      0.000000
+wagamama - Brighton                     0.166667
+Gourmet Burger Kitchen - Brighton       0.500000
+Oki-Nami                                1.000000
+Street Thai                             1.000000
+Carlito Burrito                         1.500000
+Eatalio                                 2.000000
+Las Iguanas - Brighton                  2.000000
+Sabai Thai                              3.000000
+dtype: float64 
+
+drops: 67 
+
+Order Comission: 268.0 
+
+Total Tips: 20.0 

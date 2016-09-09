@@ -1,0 +1,112 @@
+#:kivy 1.8.0
+
+NavDrawer:
+
+<NavDrawer>:
+    anim_type: 'slide_above_anim'
+    SidePanel:
+    MainPanel:
+
+<SidePanel>:
+    orientation: 'vertical'
+    spacing: 1
+
+    Button:
+        text: 'Today Info'
+    Button:
+        text: 'Statistics'
+
+    Button:
+        text: ''
+        background_normal: 'images/Deliveroo_Logo.png'
+
+
+<MainPanel>:
+    orientation: 'vertical'
+    spacing: 1
+
+    AppActionBar:
+        size_hint: (1., 0.1)
+
+    Image:
+        source: 'images/Drivers.png'
+
+
+# <AppActionBar>:
+    # pos_hint: {'top':1}
+    # ActionView:
+    #     use_separator: True
+    #     ActionPrevious:
+    #         title: 'AndroidApp'
+    #         with_previous: False
+    #         app_icon: 'atlas://data/images/defaulttheme/splitter_grip'
+    #         on_press: app.root.toggle_sidepanel()
+    #     ActionOverflow:
+    #     ActionButton:
+    #         text: 'Fine'
+    #         icon: 'atlas://data/images/defaulttheme/close'
+    #         on_press: app.quit
+<AppActionBar>:
+    pos_hint: {'top':1}
+    ActionView:
+        use_separator: True
+        ActionPrevious:
+	        app_icon: 'atlas://data/images/defaulttheme/splitter_grip'
+            title: 'Driver 14940 stats'
+            with_previous: False
+            on_press: app.root.toggle_sidepanel()
+        ActionOverflow:
+        ActionButton:
+            text: 'Btn0'
+            icon: 'atlas://data/images/defaulttheme/audio-volume-high'
+        #DatePicker:
+        ActionButton:
+            text: 'Btn2'
+            icon:'images/Tips.png'
+        ActionButton:
+            text: 'Btn3'
+            icon:'images/money.png'
+        ActionButton:
+            text: 'Btn4'
+            icon:'images/delivery_time.png'
+        ActionButton:
+            text: 'Btn5'
+            icon:'images/restaurant.png'
+        ActionGroup:
+            text: 'Group1'
+            ActionButton:
+                text: 'Btn6'
+                icon: 'images/weather.png'
+
+
+<ScreenPayment>:
+    orientation: 'vertical'
+    spacing: 1
+
+    AppActionBar:
+        size_hint: (1., 0.1)
+
+    Label:
+        id: Payment
+        text: '00:0'
+
+<ScreenTips>:
+    orientation: 'vertical'
+    spacing: 1
+
+    AppActionBar:
+        size_hint: (1., 0.1)
+
+    Label:
+        id: Tips
+        text: 's'
+
+<PaginaUno>:
+    orientation: 'vertical'
+    spacing: 1
+
+    AppActionBar:
+        size_hint: (1., 0.1)
+
+    Label:
+        text: 'applicazione'
