@@ -1,7 +1,7 @@
 (Project under construction, not finished yet)
 ============
 
-#RiderRooStats
+#RiderRooStats:
 
 App Impemented with Kivy and Python to provide instant information to Deliveroo Riders about their earnings and statistics about their deliveries. 
 
