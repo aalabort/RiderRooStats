@@ -8,7 +8,7 @@ App Impemented with Kivy and Python to provide instant information to Deliveroo 
 For the moment it consist of 2 parts:
 * Algorithm to read the gmail of the courier to be able to scrape it and extract the useful data from
 the mails sent by Deliveroo.
-* Kivy App
+* Kivy App to provide the courier with instant statistics about the number of drops, tips and earnings at the current time.
 
 
 The first part is ready, the algorithm works properly and print the results in the cmd.
